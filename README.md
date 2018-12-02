@@ -1,3 +1,5 @@
+Original Author of this repository: https://gsurma.github.io
+
 <h3 align="center">
   <img src="assets/atari_icon_web.png" width="300">
 </h3>
