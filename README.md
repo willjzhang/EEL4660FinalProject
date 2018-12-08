@@ -1,5 +1,3 @@
-Original Author of this repository: https://gsurma.github.io
-
 <h3 align="center">
   <img src="assets/atari_icon_web.png" width="300">
 </h3>
@@ -93,3 +91,4 @@ Human average: **~28**
 
 DDQN average: **~62 (221%)**
 
+This repository was forked from: https://gsurma.github.io
