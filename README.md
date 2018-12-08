@@ -55,14 +55,16 @@ After 5M of steps (**~40h** on GTX 1060 GPU):
 Normalized score - each reward clipped to (-1, 1)
 
 *Testing:*
+
 1/3 of the Youtube vid
-<img src="assets/Breakout/ddqn/b1.gif" width="110">
+<img src="assets/Breakout/ddqn/b1.gif" width="220">
 
 23 of the Youtube vid
-<img src="assets/Breakout/ddqn/b3.gif" width="110">
+<img src="assets/Breakout/ddqn/b3.gif" width="220">
 
 3/3 of the Youtube vid
-<img src="assets/Breakout/ddqn/b5.gif" width="110">
+<img src="assets/Breakout/ddqn/b5.gif" width="220">
+
 <img src="assets/Breakout/ddqn/testing_score.png" width="500">
 
 Human average: **~31**
