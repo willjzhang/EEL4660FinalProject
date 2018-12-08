@@ -55,14 +55,15 @@ After 5M of steps (**~40h** on GTX 1060 GPU):
 Normalized score - each reward clipped to (-1, 1)
 
 *Testing:*
+[YouTube Video](https://www.youtube.com/watch?v=kOi7zzJIpC0)
 
-1/3 of the Youtube vid
+1/3 of the Youtube Video
 <img src="assets/Breakout/ddqn/b1.gif" width="220">
 
-2/3 of the Youtube vid
+2/3 of the Youtube Video
 <img src="assets/Breakout/ddqn/b3.gif" width="220">
 
-3/3 of the Youtube vid
+3/3 of the Youtube Video
 <img src="assets/Breakout/ddqn/b5.gif" width="220">
 
 <img src="assets/Breakout/ddqn/testing_score.png" width="500">
