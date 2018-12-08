@@ -59,7 +59,7 @@ Normalized score - each reward clipped to (-1, 1)
 1/3 of the Youtube vid
 <img src="assets/Breakout/ddqn/b1.gif" width="220">
 
-23 of the Youtube vid
+2/3 of the Youtube vid
 <img src="assets/Breakout/ddqn/b3.gif" width="220">
 
 3/3 of the Youtube vid
