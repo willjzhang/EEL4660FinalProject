@@ -2,34 +2,11 @@
   <img src="assets/atari_icon_web.png" width="300">
 </h3>
 
-# Atari
-
-Research Playground built on top of [OpenAI's Atari Gym](https://gym.openai.com/envs/#atari), prepared for implementing various Reinforcement Learning algorithms.
-
-It can emulate any of the following games:
-	
-> ['Asterix', 'Asteroids',
-> 'MsPacman', 'Kaboom', 'BankHeist', 'Kangaroo',
-> 'Skiing', 'FishingDerby', 'Krull', 'Berzerk',
-> 'Tutankham', 'Zaxxon', 'Venture', 'Riverraid',
-> 'Centipede', 'Adventure', 'BeamRider', 'CrazyClimber',
-> 'TimePilot', 'Carnival', 'Tennis', 'Seaquest',
-> 'Bowling', 'SpaceInvaders', 'Freeway', 'YarsRevenge',
-> 'RoadRunner', 'JourneyEscape', 'WizardOfWor',
-> 'Gopher', 'Breakout', 'StarGunner', 'Atlantis',
-> 'DoubleDunk', 'Hero', 'BattleZone', 'Solaris',
-> 'UpNDown', 'Frostbite', 'KungFuMaster', 'Pooyan',
-> 'Pitfall', 'MontezumaRevenge', 'PrivateEye',
-> 'AirRaid', 'Amidar', 'Robotank', 'DemonAttack',
-> 'Defender', 'NameThisGame', 'Phoenix', 'Gravitar',
-> 'ElevatorAction', 'Pong', 'VideoPinball', 'IceHockey',
-> 'Boxing', 'Assault', 'Alien', 'Qbert', 'Enduro',
-> 'ChopperCommand', 'Jamesbond']
-
-Check out corresponding Medium article: [Atari - Reinforcement Learning in depth 🤖 (Part 1: DDQN)](https://towardsdatascience.com/atari-reinforcement-learning-in-depth-part-1-ddqn-ceaa762a546f)
+# Breakout (Atari)
+We used Double Q-Learning (DDQN) to learn to play Breakout via pixels as input.
 
 ## Purpose
-The ultimate goal of this project is to implement and compare various RL approaches with atari games as a common denominator.
+This project is used for EEL 4660.
 
 ## Usage
 
