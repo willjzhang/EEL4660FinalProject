@@ -73,28 +73,7 @@ Deep Convolutional Neural Network by [DeepMind](https://www.cs.toronto.edu/~vmni
 
 
 ### Performance
-After 5M of steps (**~40h** on Tesla K80 GPU or **~90h** on 2.9 GHz Intel i7 Quad-Core CPU):
-
-#### SpaceInvaders
-
-*Training:*
-
-<img src="assets/SpaceInvaders/ddqn/training_loss.png" width="500">
-<img src="assets/SpaceInvaders/ddqn/training_score.png" width="500">
-
-Normalized score - each reward clipped to (-1, 1)
-
-*Testing:*
-
-<img src="assets/SpaceInvaders/ddqn/space_invaders.gif" width="440">
-
-<img src="assets/SpaceInvaders/ddqn/score.png" width="500">
-
-Human average: **~372**
-
-DDQN average: **~479 (128%)**
-
----
+After 5M of steps (**~40h** on GTX 1060 GPU):
 
 #### Breakout
 
@@ -113,9 +92,4 @@ Normalized score - each reward clipped to (-1, 1)
 Human average: **~28**
 
 DDQN average: **~62 (221%)**
-
-
-
-## Genetic Evolution
-Coming soon!
 
