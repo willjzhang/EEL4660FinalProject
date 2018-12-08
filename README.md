@@ -1,7 +1,3 @@
-<h3 align="center">
-  <img src="assets/atari_icon_web.png" width="300">
-</h3>
-
 # Breakout (Atari)
 We used Double Q-Learning (DDQN) to learn to play Breakout via pixels as input.
 
@@ -59,11 +55,15 @@ After 5M of steps (**~40h** on GTX 1060 GPU):
 Normalized score - each reward clipped to (-1, 1)
 
 *Testing:*
+1/3 of the Youtube vid
+<img src="assets/Breakout/ddqn/b1.gif" width="110">
 
-<img src="assets/Breakout/ddqn/b1.gif" width="440">
-<img src="assets/Breakout/ddqn/b3.gif" width="440">
-<img src="assets/Breakout/ddqn/b5.gif" width="440">
-<img src="assets/Breakout/ddqn/score.png" width="500">
+23 of the Youtube vid
+<img src="assets/Breakout/ddqn/b3.gif" width="110">
+
+3/3 of the Youtube vid
+<img src="assets/Breakout/ddqn/b5.gif" width="110">
+<img src="assets/Breakout/ddqn/testing_score.png" width="500">
 
 Human average: **~31**
 
