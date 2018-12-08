@@ -54,18 +54,19 @@ After 5M of steps (**~40h** on GTX 1060 GPU):
 
 *Training:*
 
-<img src="assets/Breakout/ddqn/training_loss.png" width="500">
 <img src="assets/Breakout/ddqn/training_score.png" width="500">
 
 Normalized score - each reward clipped to (-1, 1)
 
 *Testing:*
 
-<img src="assets/Breakout/ddqn/breakout.gif" width="440">
+<img src="assets/Breakout/ddqn/b1.gif" width="440">
+<img src="assets/Breakout/ddqn/b3.gif" width="440">
+<img src="assets/Breakout/ddqn/b5.gif" width="440">
 <img src="assets/Breakout/ddqn/score.png" width="500">
 
-Human average: **~28**
+Human average: **~31**
 
-DDQN average: **~62 (221%)**
+DDQN average: **~37**
 
 This repository was forked from: https://gsurma.github.io
